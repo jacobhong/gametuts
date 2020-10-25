@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CD6B621C-CB18-9608-3E21-596FE4D7CCCB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlatformGripper.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GlobalTimer.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/GlobalScore.cs" Line="9" Column="34" />
+      <File FileName="Assets/Scripts/SkyRotate.cs" Line="13" Column="78" />
+      <File FileName="Assets/Scripts/RenderToLevel.cs" Line="14" Column="53" />
+      <File FileName="Assets/Scripts/LevelDeath.cs" Line="10" Column="35" />
+      <File FileName="Assets/Scripts/PlatformGripper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3dplatformertut" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlatformGripper.cs" selected="True" />
+              </Node>
+              <Node name="unity-chan!" expanded="True">
+                <Node name="Unity-chan! Model" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="685b3660-0153-4ebb-b6dd-3122ad3f646b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
